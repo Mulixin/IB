@@ -1,40 +1,18 @@
----
-## Front matter
-lang: ru-RU
-title: Дискреционное разграничение прав в Linux. Расширенные атрибуты
-author: |
-	 Мулихин Павел НФИбд-01-18\inst{1}
+# Лабораторная работа № 1
 
-institute: |
-	\inst{1}Российский Университет Дружбы Народов
+**Установка и конфигурация операционной системы на виртуальную машину**
 
-date: 27 января, 2022, Москва, Россия
+Мулихин Павел
 
-## Formatting
-mainfont: PT Serif
-romanfont: PT Serif
-sansfont: PT Sans
-monofont: PT Mono
-toc: false
-slide_level: 2
-theme: metropolis
-header-includes: 
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
- - '\makeatletter'
- - '\beamer@ignorenonframefalse'
- - '\makeatother'
-aspectratio: 43
-section-titles: true
+НФИбд-01-18
 
----
-
-# Цели и задачи работы
+# Цели и задачи
 
 ## Цель лабораторной работы
 
 Целью данной работы является приобретение практических навыков установки операционной системы на виртуальную машину, размещение файлов на сервисе Git и подготовка отчета в формате Markdown
 
-# Процесс выполнения лабораторной работы
+# Выполнение лабораторной работы
 
 ## Создание виртуальной машины 
 
